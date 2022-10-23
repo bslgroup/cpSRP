@@ -7,3 +7,5 @@ bioRxiv 2022.01.11.475959; doi: https://doi.org/10.1101/2022.01.11.475959
 cpSRP43 folder contains the initial pdb and psf files as well as NAMD configuration file used to start the equilibrium simulations of cpSRP43 protein.
 
 cpSRP43w54 folder contains the initial pdb and psf files as well as NAMD configuration file used to start the equilibrium simulations of cpSRP43 protein with a small segment of cpSRP54 bound to it.
+
+SMD dolder contains NAMD and colvars configuration files for the 4 consecutive SMD simulations
